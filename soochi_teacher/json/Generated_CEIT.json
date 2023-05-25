@@ -1,0 +1,75 @@
+{
+    "Monday": {
+        "8:50-9:40": "WT Lab",
+        "9:40-10:30": "WT Lab",
+        "10:30-10:40": "Break",
+        "10:40-11:30": "Web Technology",
+        "11:30-12:20": "Web Technology",
+        "12:20-1:10": "Software Engineering",
+        "1:10-2:00": "Break",
+        "2:00-2:50": "Software Engineering",
+        "2:50-3:40": "Software Engineering",
+        "3:40-4:30": "HET"
+    },
+    "Tuesday": {
+        "8:50-9:40": "Problem Solving",
+        "9:40-10:30": "Problem Solving",
+        "10:30-10:40": "Break",
+        "10:40-11:30": "Software Engineering",
+        "11:30-12:20": "CN Lab",
+        "12:20-1:10": "CN Lab",
+        "1:10-2:00": "Break",
+        "2:00-2:50": "HET",
+        "2:50-3:40": "HET",
+        "3:40-4:30": "Image Processing"
+    },
+    "Wednesday": {
+        "8:50-9:40": "Software Engineering",
+        "9:40-10:30": "Software Engineering",
+        "10:30-10:40": "Break",
+        "10:40-11:30": "Image Processing",
+        "11:30-12:20": "Image Processing",
+        "12:20-1:10": "Software Engineering",
+        "1:10-2:00": "Break",
+        "2:00-2:50": "Computer Network",
+        "2:50-3:40": "Computer Network",
+        "3:40-4:30": "HET"
+    },
+    "Thursday": {
+        "8:50-9:40": "Web Technology",
+        "9:40-10:30": "Web Technology",
+        "10:30-10:40": "Break",
+        "10:40-11:30": "SPM",
+        "11:30-12:20": "SPM",
+        "12:20-1:10": "Web Technology",
+        "1:10-2:00": "Break",
+        "2:00-2:50": "HET",
+        "2:50-3:40": "HET",
+        "3:40-4:30": "Image Processing"
+    },
+    "Friday": {
+        "8:50-9:40": "Software Engineering",
+        "9:40-10:30": "Software Engineering",
+        "10:30-10:40": "Break",
+        "10:40-11:30": "Image Processing",
+        "11:30-12:20": "Image Processing",
+        "12:20-1:10": "Computer Network",
+        "1:10-2:00": "Break",
+        "2:00-2:50": "Problem Solving",
+        "2:50-3:40": "Problem Solving",
+        "3:40-4:30": "Web Technology"
+    }
+}
+
+{
+    "Software Engineering": "Mr.Rohit Vashisht",
+    "Web Technology": "Ms.Lopamudra Mohanty",
+    "Computer Network": "Mr.Gaurav Vats",
+    "Image Processing": "Ms.Disha Mohini Pathak",
+    "WT Lab": "Ms.Lopamudra Mohanty",
+    "CN Lab": "Mr.Gaurav Vats",
+    "ITC": "Mr.Pradeep Sharma",
+    "SPM": "Ms.Mansi Mahendru",
+    "Problem Solving": "Mr. Rohit Vashisht/ Mr. Rahul Kumar Sharma",
+    "HET": "Mr. Pradeep Sharma",
+}

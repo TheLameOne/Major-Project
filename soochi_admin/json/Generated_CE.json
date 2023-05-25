@@ -1,0 +1,63 @@
+{
+    "Monday": {
+      "8:50-9:40": "Computer Network",
+      "9:40-10:30": "Computer Network",
+      "10:30-10:40": "Break",
+      "10:40-11:30": "HET",
+      "11:30-12:20": "SPM",
+      "12:20-1:10": "Problem Solving",
+      "1:10-2:00": "Break",
+      "2:00-2:50": "Image Processing",
+      "2:50-3:40": "Image Processing",
+      "3:40-4:30": "WT Lab"
+    },
+    "Tuesday": {
+      "8:50-9:40": "Computer Network",
+      "9:40-10:30": "Computer Network",
+      "10:30-10:40": "Break",
+      "10:40-11:30": "SPM",
+      "11:30-12:20": "HET",
+      "12:20-1:10": "Problem Solving",
+      "1:10-2:00": "Break",
+      "2:00-2:50": "Image Processing",
+      "2:50-3:40": "Image Processing",
+      "3:40-4:30": "CN Lab"
+    },
+    "Wednesday": {
+      "8:50-9:40": "Web Technology",
+      "9:40-10:30": "Web Technology",
+      "10:30-10:40": "Break",
+      "10:40-11:30": "CN Lab",
+      "11:30-12:20": "CN Lab",
+      "12:20-1:10": "Software Engineering",
+      "1:10-2:00": "Break",
+      "2:00-2:50": "Computer Network",
+      "2:50-3:40": "Computer Network",
+      "3:40-4:30": "Web Technology"
+    },
+    "Thursday": {
+      "8:50-9:40": "Web Technology",
+      "9:40-10:30": "Web Technology",
+      "10:30-10:40": "Break",
+      "10:40-11:30": "CN Lab",
+      "11:30-12:20": "CN Lab",
+      "12:20-1:10": "Software Engineering",
+      "1:10-2:00": "Break",
+      "2:00-2:50": "Computer Network",
+      "2:50-3:40": "Computer Network",
+      "3:40-4:30": "Problem Solving"
+    },
+    "Friday": {
+      "8:50-9:40": "Software Engineering",
+      "9:40-10:30": "Software Engineering",
+      "10:30-10:40": "Break",
+      "10:40-11:30": "WT Lab",
+      "11:30-12:20": "WT Lab",
+      "12:20-1:10": "HET",
+      "1:10-2:00": "Break",
+      "2:00-2:50": "SPM",
+      "2:50-3:40": "SPM",
+      "3:40-4:30": "Problem Solving"
+    }
+  }
+

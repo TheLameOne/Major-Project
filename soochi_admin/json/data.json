@@ -1,0 +1,93 @@
+[
+    {
+    "day": "Monday",
+    "slot": [
+        {
+            "id": 2,
+            "subjectName": "Image Processing",
+            "subjectCode": "KCS-062",
+            "facultyName": "Ms. Disha Mohini Pathak",
+            "timeStart": "9:00",
+            "timeEnd": "10:00",
+            "lectureHall": "LT 60",
+            "lectureBlock": "KC block"
+           
+        }
+    ]
+    },
+    {
+    "day": "Tuesday",
+    "slot": [
+        {
+            "id": 0,
+            "subjectName": "Web Technology",
+            "subjectCode": "KCS-502",
+            "facultyName": "Ms. Lopamudra Mohanty",
+            "timeStart": "10:00",
+            "timeEnd": "11:00",
+            "lectureHall": "LT 60",
+            "lectureBlock": "KC block"
+        },
+        {
+            "id": 0,
+            "subjectName": "Data Structures",
+            "subjectCode": "KCS-501",
+            "facultyName": "Mr. Rahul Sharma",
+            "timeStart": "11:00",
+            "timeEnd": "12:00",
+            "lectureHall": "LT 60",
+            "lectureBlock": "KC block"
+        },
+        {
+            "id": 2,
+            "subjectName": "Computer Networks",
+            "subjectCode": "KCS-503",
+            "facultyName": "Mr. Gaurav Vats",
+            "timeStart": "12:00",
+            "timeEnd": "1:00",
+            "lectureHall": "LT 60",
+            "lectureBlock": "KC block"
+        },
+        {
+            "id": 3,
+            "subjectName": "Logical Reasoning",
+            "subjectCode": "KCS-502",
+            "facultyName": "Mr. Sachin Kumar Sharma",
+            "timeStart": "1:00",
+            "timeEnd": "2:00",
+            "lectureHall": "LT 60",
+            "lectureBlock": "KC block"
+        },
+        {
+            "id": 4,
+            "subjectName": "SPM",
+            "subjectCode": "KCS-502",
+            "facultyName": "Ms. Mansi Mahendru",
+            "timeStart": "2:00",
+            "timeEnd": "3:00",
+            "lectureHall": "LT 60",
+            "lectureBlock": "KC block"
+        },
+        {
+            "id": 5,
+            "subjectName": "ITC",
+            "subjectCode": "KNC-602",
+            "facultyName": "Mr. Pradeep Sharma",
+            "timeStart": "3:00",
+            "timeEnd": "4:00",
+            "lectureHall": "LT 60",
+            "lectureBlock": "KC block"
+        },
+        {
+            "id": 6,
+            "subjectName": "Image Processing",
+            "subjectCode": "KCS-062",
+            "facultyName": "Ms. Disha Mohini Pathak",
+            "timeStart": "4:00",
+            "timeEnd": "5:00",
+            "lectureHall": "LT 60",
+            "lectureBlock": "KC block"
+        }
+    ]
+}
+]
