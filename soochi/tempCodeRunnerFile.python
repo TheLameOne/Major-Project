@@ -1,0 +1,25 @@
+import requests
+from bs4 import BeautifulSoup
+
+# Make a request to the website
+r = requests.get("https://www.airtel.in/broadband/delhi")
+
+# Parse the HTML content of the page
+soup = BeautifulSoup(r.content, 'html.parser')
+
+# Find all the elements with the class "pack-header"
+pack_headers = soup.find_all(class_='pack-header')
+
+# Create an empty list to store the data
+data = []
+
+# Loop through the elements and extract the title and cost
+for pack in pack_headers:
+  title = pack.find('h3').text
+  cost = pack.find(class_='price').text
+  # Append the data as a tuple to the list
+  data.append((title, cost))
+
+# Print the data to the console
+for item in data:
+  print(f"Title: {item[0]} Cost: {item[1]}")
